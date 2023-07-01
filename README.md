@@ -1,3 +1,6 @@
+# Intro 
+This Repo was copied from https://github.com/Wuest3nFuchs/Degoogle it seems like its not maintanted any longer.
+
 ## What does it mean?
 
 Degoogling means to stop using anything that belongs to Google, anything that was made by Google. I'm talking about their search engine, their mail service (Gmail), Youtube, etc.
