@@ -39,7 +39,6 @@ In the future someone will be capable of accessing all that information and I as
   * [Bitchute](https://www.bitchute.com/)
   * [Bit.tube](https://bit.tube/)
   * [NewPipe](https://newpipe.net/)
-  * [invidious](https://github.com/iv-org/invidious)
   
   
 #### **Gmail**
