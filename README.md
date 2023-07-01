@@ -188,7 +188,7 @@ In the future someone will be capable of accessing all that information and I as
 **Google Keep**
   
   * [Standard Notes](https://standardnotes.org/)
-  * [Joplin](https://joplin.cozic.net/)
+  * [Joplin](https://joplinapp.org/)
   
 **Google Blogger**
 
