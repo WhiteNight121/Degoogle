@@ -84,6 +84,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Tails](https://tails.boum.org/)
   
   
+  
 **Android**
   
   * [GrapheneOS](https://grapheneos.org/)
@@ -92,6 +93,7 @@ In the future someone will be capable of accessing all that information and I as
   * [EeloOS](https://e.foundation/)
   * [Plasma Mobile](https://www.plasma-mobile.org/)
   * [Sailfish OS](https://sailfishos.org/)
+  * [CalyxOS](https://calyxos.org)
   
   
 **Google Calendar**
