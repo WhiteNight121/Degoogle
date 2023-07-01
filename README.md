@@ -29,6 +29,7 @@ In the future someone will be capable of accessing all that information and I as
    * [Metager](https://metager.de/)
    * [StartPage](https://www.startpage.com/)
    * [Ecosia](https://www.ecosia.org/)
+   * [SearXNG](https://github.com/searxng/searxng)
 
 #### **Youtube**
   
@@ -38,6 +39,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Bitchute](https://www.bitchute.com/)
   * [Bit.tube](https://bit.tube/)
   * [NewPipe](https://newpipe.net/)
+  * [invidious](https://github.com/iv-org/invidious)
   
   
 #### **Gmail**
@@ -57,6 +59,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Brave](https://brave.com/)
   * [Gnu IceCat](https://www.gnu.org/software/gnuzilla/)
   * [Waterfox](https://www.waterfox.net/)
+  * [Mullvad Browser](https://mullvad.net/en/browser)
   
   
 #### **Google Home**
@@ -97,6 +100,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Plasma Mobile](https://www.plasma-mobile.org/)
   * [Sailfish OS](https://sailfishos.org/)
   * [CalyxOS](https://calyxos.org)
+  * [LineageOS](https://lineageos.org/)
   
   
 #### **Google Calendar**
@@ -141,6 +145,9 @@ In the future someone will be capable of accessing all that information and I as
   * [Fathom Analytics](https://usefathom.com/)
   * [AT Internet](https://www.atinternet.com/en/)
   * [Clicky](https://clicky.com/)
+  * [Umami](https://umami.is/)
+  
+
 
 
 #### **Google Maps**
@@ -219,6 +226,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Njalla](https://njal.la/)
   * [Namecheap](https://www.namecheap.com/)
   * [OrangeWebsite](https://www.orangewebsite.com/)
+  * [Porkbun](https://porkbun.com/)
 
 
 
