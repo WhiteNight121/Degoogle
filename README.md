@@ -103,7 +103,7 @@ In the future someone will be capable of accessing all that information and I as
   
 #### **Google Calendar**
   
-  * [Kolab Now](https://kolabnow.com/feature/calendar)
+  * [Kolab Now](https://kolabnow.com/)
   * [Posteo.de](https://posteo.de/en)
   * [Mailbox.org](https://mailbox.org/en/)
   * [Fruxx](https://fruux.com/)
