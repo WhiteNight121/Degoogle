@@ -135,7 +135,6 @@ In the future someone will be capable of accessing all that information and I as
 
   * [DeepL](https://www.deepl.com/translator)
   * [Linguee](https://www.linguee.com/)
-  * [Swisscows Translate](https://swisscows.ch/translate)
   * [dict.cc](https://www.dict.cc/)
 
 
