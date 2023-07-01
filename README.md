@@ -217,7 +217,7 @@ In the future someone will be capable of accessing all that information and I as
   * [RetroShare](https://retroshare.cc/)
   * [Conversations](https://codeberg.org/iNPUTmice/Conversations)
   * [Jami](https://jami.net/)
-  * [Riot](https://about.riot.im/)
+  * [Element](https://element.io/)
 
 #### **Google Domains**
 
