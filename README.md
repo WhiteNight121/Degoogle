@@ -70,7 +70,7 @@ In the future someone will be capable of accessing all that information and I as
 
   * [NextCloud](https://nextcloud.com/)
   * [SpiderOak ONE](https://crossclave.com/one/)
-  * [ownCloud](https://owncloud.org/)
+  * [ownCloud](https://owncloud.com/)
   * [TeamDrive](https://teamdrive.com/)
   * [Sync.com](https://www.sync.com/)
   * [Tresorit](https://tresorit.com/)
@@ -82,7 +82,7 @@ In the future someone will be capable of accessing all that information and I as
   
   * [QubesOS](https://www.qubes-os.org/)
   * [Trisquel](https://trisquel.info)
-  * [Debian](http://debian.org/)
+  * [Debian](https://debian.org/)
   * [Fedora](https://fedoraproject.org/)
   * [FreeBSD](https://www.freebsd.org/)
   * [Tails](https://tails.boum.org/)
@@ -158,7 +158,7 @@ In the future someone will be capable of accessing all that information and I as
 
 #### **Google Play Store**
 
-  * [F-Droid](https://f-droid.org/packages/com.github.yeriomin.yalpstore/)
+  * [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
   * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   * [Aptoide](https://www.aptoide.com/)
 
