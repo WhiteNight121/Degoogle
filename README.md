@@ -145,6 +145,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Fathom Analytics](https://usefathom.com/)
   * [AT Internet](https://www.atinternet.com/en/)
   * [Clicky](https://clicky.com/)
+  * [Umami](https://umami.is/)
   
 
 
