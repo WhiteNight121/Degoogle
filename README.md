@@ -63,7 +63,6 @@ In the future someone will be capable of accessing all that information and I as
   
 #### **Google Home**
   
-  * [Snips](https://snips.ai/)
   * [Mycroft](https://mycroft.ai/)
   
   
