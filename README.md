@@ -59,6 +59,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Brave](https://brave.com/)
   * [Gnu IceCat](https://www.gnu.org/software/gnuzilla/)
   * [Waterfox](https://www.waterfox.net/)
+  * [Mullvad Browser](https://mullvad.net/en/browser)
   
   
 #### **Google Home**
