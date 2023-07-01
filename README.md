@@ -97,6 +97,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Plasma Mobile](https://www.plasma-mobile.org/)
   * [Sailfish OS](https://sailfishos.org/)
   * [CalyxOS](https://calyxos.org)
+  * [LineageOS](https://lineageos.org/)
   
   
 #### **Google Calendar**
@@ -141,6 +142,8 @@ In the future someone will be capable of accessing all that information and I as
   * [Fathom Analytics](https://usefathom.com/)
   * [AT Internet](https://www.atinternet.com/en/)
   * [Clicky](https://clicky.com/)
+  
+
 
 
 #### **Google Maps**
