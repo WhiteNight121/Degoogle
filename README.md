@@ -69,7 +69,7 @@ In the future someone will be capable of accessing all that information and I as
 #### **Google Drive**
 
   * [NextCloud](https://nextcloud.com/)
-  * [SpiderOak ONE](https://spideroak.com/one/)
+  * [SpiderOak ONE](https://crossclave.com/one/)
   * [ownCloud](https://owncloud.org/)
   * [TeamDrive](https://teamdrive.com/)
   * [Sync.com](https://www.sync.com/)
