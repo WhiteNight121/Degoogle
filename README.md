@@ -153,7 +153,6 @@ In the future someone will be capable of accessing all that information and I as
 
   * [OpenStreetMap](http://www.openstreetmap.org/)
   * [OsmAnd](https://osmand.net/)
-  * [Maps(F Droid)](https://f-droid.org/en/packages/com.github.axet.maps/)
   * [MapHub](https://maphub.net/)
 
 
