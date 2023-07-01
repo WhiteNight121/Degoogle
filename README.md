@@ -1,5 +1,3 @@
-![Google Logo](https://i.swisscows.ch/?link=https%3a%2f%2flogosmarken.com%2fwp-content%2fuploads%2f2018%2f05%2fGoogle-Logo.png)
-
 ## What does it mean?
 
 Degoogling means to stop using anything that belongs to Google, anything that was made by Google. I'm talking about their search engine, their mail service (Gmail), Youtube, etc.
