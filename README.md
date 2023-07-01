@@ -29,6 +29,7 @@ In the future someone will be capable of accessing all that information and I as
    * [Metager](https://metager.de/)
    * [StartPage](https://www.startpage.com/)
    * [Ecosia](https://www.ecosia.org/)
+   * [SearXNG](https://github.com/searxng/searxng)
 
 #### **Youtube**
   
