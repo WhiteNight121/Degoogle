@@ -17,7 +17,7 @@ In the future someone will be capable of accessing all that information and I as
 ## Alternatives 💡
 
 
-**Google Search Engine**
+#### **Google Search Engine**
    
    * [DuckDuckGo](https://duckduckgo.com/)
    * [Qwant](https://www.qwant.com/)
@@ -27,7 +27,7 @@ In the future someone will be capable of accessing all that information and I as
    * [StartPage](https://www.startpage.com/)
    * [Ecosia](https://www.ecosia.org/)
 
-**Youtube**
+#### **Youtube**
   
   * [Dtube](https://d.tube/)
   * [PeerTube](https://joinpeertube.org/)
@@ -37,7 +37,7 @@ In the future someone will be capable of accessing all that information and I as
   * [NewPipe](https://newpipe.net/)
   
   
-**Gmail**
+#### **Gmail**
   
   * [Protonmail](https://protonmail.com/)
   * [Tutanota](https://tutanota.com/)
@@ -47,7 +47,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Runbox](https://runbox.com/)  
   
   
-**Google Chrome**
+#### **Google Chrome**
   
   * [Mozilla Firefox](https://www.mozilla.org/en-US/)
   * [Tor Browser](https://www.torproject.org/)
@@ -56,13 +56,13 @@ In the future someone will be capable of accessing all that information and I as
   * [Waterfox](https://www.waterfox.net/)
   
   
-**Google Home**
+#### **Google Home**
   
   * [Snips](https://snips.ai/)
   * [Mycroft](https://mycroft.ai/)
   
   
-**Google Drive**
+#### **Google Drive**
 
   * [NextCloud](https://nextcloud.com/)
   * [SpiderOak ONE](https://spideroak.com/one/)
@@ -73,7 +73,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Syncthing](https://github.com/syncthing/syncthing/tree/master)
 
 
-**Chrome OS**
+#### **Chrome OS**
   
   
   * [QubesOS](https://www.qubes-os.org/)
@@ -85,7 +85,7 @@ In the future someone will be capable of accessing all that information and I as
   
   
   
-**Android**
+#### **Android**
   
   * [GrapheneOS](https://grapheneos.org/)
   * [Ubuntu Touch](https://ubuntu-touch.io/)
@@ -96,7 +96,7 @@ In the future someone will be capable of accessing all that information and I as
   * [CalyxOS](https://calyxos.org)
   
   
-**Google Calendar**
+#### **Google Calendar**
   
   * [Kolab Now](https://kolabnow.com/feature/calendar)
   * [Posteo.de](https://posteo.de/en)
@@ -106,7 +106,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Lightening Calendar](https://www.thunderbird.net/en-US/calendar/)
   
   
-**Google Docs**
+#### **Google Docs**
   
   
   * [LibreOffice](https://www.libreoffice.org/)
@@ -115,7 +115,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Cryptee](https://crypt.ee/)
   
   
-**Google Photos**
+#### **Google Photos**
   
   * [Lychee](https://lychee.electerious.com/)
   * [Piwigo](https://piwigo.org/)
@@ -124,7 +124,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Immich](https://immich.app/)
   
   
-**Google Translate**
+#### **Google Translate**
 
   * [DeepL](https://www.deepl.com/translator)
   * [Linguee](https://www.linguee.com/)
@@ -132,7 +132,7 @@ In the future someone will be capable of accessing all that information and I as
   * [dict.cc](https://www.dict.cc/)
 
 
-**Google Analytics**
+#### **Google Analytics**
 
   * [Matomo](https://matomo.org/)
   * [Fathom Analytics](https://usefathom.com/)
@@ -140,7 +140,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Clicky](https://clicky.com/)
 
 
-**Google Maps**
+#### **Google Maps**
 
   * [OpenStreetMap](http://www.openstreetmap.org/)
   * [OsmAnd](https://osmand.net/)
@@ -148,14 +148,14 @@ In the future someone will be capable of accessing all that information and I as
   * [MapHub](https://maphub.net/)
 
 
-**Google Play Store**
+#### **Google Play Store**
 
   * [F-Droid](https://f-droid.org/packages/com.github.yeriomin.yalpstore/)
   * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   * [Aptoide](https://www.aptoide.com/)
 
 
-**Google DNS**
+#### **Google DNS**
 
   * [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy)
   * [nsupdate.info](https://nsupdate.info/)
@@ -165,44 +165,44 @@ In the future someone will be capable of accessing all that information and I as
   * [1.1.1.1](https://1.1.1.1/)
 
 
-**Google Forms**
+#### **Google Forms**
 
   * [Jotform](https://www.jotform.com/)
   
   
-**Google Fonts**
+#### **Google Fonts**
 
   * [Font Squirrel](https://www.fontsquirrel.com/)
   * [FontSpace](https://www.fontspace.com/)
   * [Behance](https://www.behance.net/)
  
-**Google Voice**
+#### **Google Voice**
 
   * [JMP.chat](https://jmp.chat/)
 
 
-**Google Firebase**
+#### **Google Firebase**
 
   * [Kuzzle](https://kuzzle.io/)
   
-**Google Keep**
+#### **Google Keep**
   
   * [Standard Notes](https://standardnotes.org/)
   * [Joplin](https://joplinapp.org/)
   
-**Google Blogger**
+#### **Google Blogger**
 
   * [WordPress](https://wordpress.com/)
   * [Medium](https://medium.com/)
   * [Ghost](https://ghost.org/)
 
 
-**Google News**
+#### **Google News**
 
   * [Tiny Tiny RSS](https://tt-rss.org/)
   * [FreshRSS](https://www.freshrss.org/)
 
-**Google Hangouts**
+#### **Google Hangouts**
 
   * [Briar](https://briarproject.org/)
   * [Signal](https://signal.org/)
@@ -211,7 +211,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Jami](https://jami.net/)
   * [Riot](https://about.riot.im/)
 
-**Google Domains**
+#### **Google Domains**
 
   * [Njalla](https://njal.la/)
   * [Namecheap](https://www.namecheap.com/)
