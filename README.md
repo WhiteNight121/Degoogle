@@ -39,12 +39,11 @@ In the future someone will be capable of accessing all that information and I as
   * [Bitchute](https://www.bitchute.com/)
   * [Bit.tube](https://bit.tube/)
   * [NewPipe](https://newpipe.net/)
-  * [invidious](https://github.com/iv-org/invidious)
   
   
 #### **Gmail**
   
-  * [Protonmail](https://protonmail.com/)
+  * [Protonmail](https://proton.me/mail)
   * [Tutanota](https://tutanota.com/)
   * [Posteo](https://posteo.de/)
   * [Mailfence](https://mailfence.com/)
@@ -64,19 +63,18 @@ In the future someone will be capable of accessing all that information and I as
   
 #### **Google Home**
   
-  * [Snips](https://snips.ai/)
   * [Mycroft](https://mycroft.ai/)
   
   
 #### **Google Drive**
 
   * [NextCloud](https://nextcloud.com/)
-  * [SpiderOak ONE](https://spideroak.com/one/)
-  * [ownCloud](https://owncloud.org/)
+  * [SpiderOak ONE](https://crossclave.com/one/)
+  * [ownCloud](https://owncloud.com/)
   * [TeamDrive](https://teamdrive.com/)
   * [Sync.com](https://www.sync.com/)
   * [Tresorit](https://tresorit.com/)
-  * [Syncthing](https://github.com/syncthing/syncthing/tree/master)
+  * [Syncthing](https://github.com/syncthing/syncthing)
 
 
 #### **Chrome OS**
@@ -84,7 +82,7 @@ In the future someone will be capable of accessing all that information and I as
   
   * [QubesOS](https://www.qubes-os.org/)
   * [Trisquel](https://trisquel.info)
-  * [Debian](http://debian.org/)
+  * [Debian](https://debian.org/)
   * [Fedora](https://fedoraproject.org/)
   * [FreeBSD](https://www.freebsd.org/)
   * [Tails](https://tails.boum.org/)
@@ -105,12 +103,13 @@ In the future someone will be capable of accessing all that information and I as
   
 #### **Google Calendar**
   
-  * [Kolab Now](https://kolabnow.com/feature/calendar)
+  * [Kolab Now](https://kolabnow.com/)
   * [Posteo.de](https://posteo.de/en)
   * [Mailbox.org](https://mailbox.org/en/)
   * [Fruxx](https://fruux.com/)
   * [Etar](https://github.com/Etar-Group/Etar-Calendar)
   * [Lightening Calendar](https://www.thunderbird.net/en-US/calendar/)
+  * [Proton Calender](https://proton.me/calendar)
   
   
 #### **Google Docs**
@@ -129,13 +128,13 @@ In the future someone will be capable of accessing all that information and I as
   * [Cryptee ](https://crypt.ee/)
   * [Yogile](https://www.yogile.com/)
   * [Immich](https://immich.app/)
+  * [PhotoPrism](https://www.photoprism.app/)
   
   
 #### **Google Translate**
 
   * [DeepL](https://www.deepl.com/translator)
   * [Linguee](https://www.linguee.com/)
-  * [Swisscows Translate](https://swisscows.ch/translate)
   * [dict.cc](https://www.dict.cc/)
 
 
@@ -154,13 +153,12 @@ In the future someone will be capable of accessing all that information and I as
 
   * [OpenStreetMap](http://www.openstreetmap.org/)
   * [OsmAnd](https://osmand.net/)
-  * [Maps(F Droid)](https://f-droid.org/en/packages/com.github.axet.maps/)
   * [MapHub](https://maphub.net/)
 
 
 #### **Google Play Store**
 
-  * [F-Droid](https://f-droid.org/packages/com.github.yeriomin.yalpstore/)
+  * [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
   * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   * [Aptoide](https://www.aptoide.com/)
 
@@ -197,7 +195,7 @@ In the future someone will be capable of accessing all that information and I as
   
 #### **Google Keep**
   
-  * [Standard Notes](https://standardnotes.org/)
+  * [Standard Notes](https://standardnotes.com/)
   * [Joplin](https://joplinapp.org/)
   
 #### **Google Blogger**
@@ -217,9 +215,9 @@ In the future someone will be capable of accessing all that information and I as
   * [Briar](https://briarproject.org/)
   * [Signal](https://signal.org/)
   * [RetroShare](https://retroshare.cc/)
-  * [Conversations](https://github.com/siacs/Conversations)
+  * [Conversations](https://codeberg.org/iNPUTmice/Conversations)
   * [Jami](https://jami.net/)
-  * [Riot](https://about.riot.im/)
+  * [Element](https://element.io/)
 
 #### **Google Domains**
 
