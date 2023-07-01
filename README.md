@@ -195,7 +195,7 @@ In the future someone will be capable of accessing all that information and I as
   
 #### **Google Keep**
   
-  * [Standard Notes](https://standardnotes.org/)
+  * [Standard Notes](https://standardnotes.com/)
   * [Joplin](https://joplinapp.org/)
   
 #### **Google Blogger**
