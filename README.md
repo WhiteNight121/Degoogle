@@ -43,7 +43,7 @@ In the future someone will be capable of accessing all that information and I as
   
 #### **Gmail**
   
-  * [Protonmail](https://protonmail.com/)
+  * [Protonmail](https://proton.me/mail)
   * [Tutanota](https://tutanota.com/)
   * [Posteo](https://posteo.de/)
   * [Mailfence](https://mailfence.com/)
