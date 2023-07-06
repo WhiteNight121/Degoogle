@@ -47,13 +47,13 @@ In the future someone will be capable of accessing all that information and I as
   * [Tutanota](https://tutanota.com/)
   * [Posteo](https://posteo.de/)
   * [Mailfence](https://mailfence.com/)
-  * [Riseup](https://riseup.net/en)
+  * [Riseup](https://riseup.net/)
   * [Runbox](https://runbox.com/)  
   
   
 #### **Google Chrome**
   
-  * [Mozilla Firefox](https://www.mozilla.org/en-US/)
+  * [Mozilla Firefox](https://www.mozilla.org/)
   * [Tor Browser](https://www.torproject.org/)
   * [Brave](https://brave.com/)
   * [Gnu IceCat](https://www.gnu.org/software/gnuzilla/)
@@ -146,8 +146,6 @@ In the future someone will be capable of accessing all that information and I as
   * [Clicky](https://clicky.com/)
   * [Umami](https://umami.is/)
   
-
-
 
 #### **Google Maps**
 
