@@ -234,6 +234,6 @@ Below are some links that have influenced my desisions and methodology when Dego
 
   * [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/)
   * [Awesome Privacy](https://github.com/pluja/awesome-privacy)
-  * [Intel Techniques](https://inteltechniques.com/index.html))
+  * [Intel Techniques](https://inteltechniques.com/index.html)
   * [The Opt Out Project](https://www.optoutproject.net/)
 
