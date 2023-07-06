@@ -37,7 +37,6 @@ In the future someone will be capable of accessing all that information and I as
   * [PeerTube](https://joinpeertube.org/)
   * [Invidious](https://invidio.us/)
   * [Bitchute](https://www.bitchute.com/)
-  * [Bit.tube](https://bit.tube/)
   * [NewPipe](https://newpipe.net/)
   
   
