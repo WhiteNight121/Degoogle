@@ -75,7 +75,7 @@ In the future someone will be capable of accessing all that information and I as
   * [TeamDrive](https://teamdrive.com/)
   * [Sync.com](https://www.sync.com/)
   * [Tresorit](https://tresorit.com/)
-  * [Syncthing](https://github.com/syncthing/syncthing)
+  * [Syncthing](https://syncthing.net/)
 
 
 #### **Chrome OS**
