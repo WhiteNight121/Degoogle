@@ -160,7 +160,7 @@ In the future someone will be capable of accessing all that information and I as
 #### **Google Play Store**
 
   * [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
-  * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+  * [Aurora Store](https://www.aurorastore.pro/)
   * [Aptoide](https://www.aptoide.com/)
 
 
