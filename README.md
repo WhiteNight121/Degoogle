@@ -198,6 +198,7 @@ In the future someone will be capable of accessing all that information and I as
   
   * [Standard Notes](https://standardnotes.com/)
   * [Joplin](https://joplinapp.org/)
+  * [Obsidian](https://obsidian.md/)
   
 #### **Google Blogger**
 
