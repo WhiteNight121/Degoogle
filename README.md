@@ -230,10 +230,10 @@ In the future someone will be capable of accessing all that information and I as
 I have one little advice. If you can don't use any of the alternatives that are listed above. Using more applications increases your attack vector. It's possible that your data will be leaked someday. Not using Google apps doesn't mean that you're safe from Google. Companies like Google and Facebook continue to look for people to gather information about them so they can target them. So you have to take further measures to be safe from them. Also I want to say that there are lots of alternatives out there, I just listed few alternatives to see that it's possible to move away from Google.
 
 ## Related Links
+Below are some links that have influenced my desisions and methodology when Degoogleing.
 
-  * [Reasons not to use Google](https://stallman.org/google.html)
-  * [7 Scary Reasons You Shouldn’t Use Siri or Google Assistant](https://www.cheatsheet.com/gear-style/reasons-you-shouldnt-use-siri-or-google-assistant.html/)
-  * [5 Reasons Not to Use Google for Search](https://gizmodo.com/5-reasons-not-to-use-google-for-search-1785396969)
-  * [De-Googling Your Life](https://www.invidio.us/watch?v=PT08J2STp3M)
-  * [Is Google Maps a Threat to Privacy?](https://itstillworks.com/google-maps-threat-privacy-2657.html)
-  * [Google Photos: Should you be worried about privacy?](https://www.androidauthority.com/google-photos-worried-privacy-616339/)
+  * [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/)
+  * [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+  * [Intel Techniques](https://inteltechniques.com/index.html))
+  * [The Opt Out Project](https://www.optoutproject.net/)
+
