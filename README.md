@@ -64,6 +64,7 @@ In the future someone will be capable of accessing all that information and I as
 #### **Google Home**
   
   * [Mycroft](https://mycroft.ai/)
+  * [Home Assistant](https://www.home-assistant.io/)
   
   
 #### **Google Drive**
