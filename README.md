@@ -154,6 +154,7 @@ In the future someone will be capable of accessing all that information and I as
   * [OpenStreetMap](http://www.openstreetmap.org/)
   * [OsmAnd](https://osmand.net/)
   * [MapHub](https://maphub.net/)
+  * [Magic Earth](https://www.magicearth.com/)
 
 
 #### **Google Play Store**
