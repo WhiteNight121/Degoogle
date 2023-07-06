@@ -171,7 +171,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Namecoin](https://namecoin.org/)
   * [UncensoredDNS](https://blog.uncensoreddns.org/)
   * [DNSCrypt](https://dnscrypt.info/)
-  * [1.1.1.1](https://1.1.1.1/)
+  * [CloudFlare](https://1.1.1.1/)
 
 
 #### **Google Forms**
