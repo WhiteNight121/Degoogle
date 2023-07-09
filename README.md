@@ -10,10 +10,10 @@ It can feel overwhelming to move away from Google, to move from something that �
 De-Googleing is a state of mind, a decision every time you sign up for a new service and decide to NOT use your google account to log in. 
 
 De-googleing is a lot of things to a lot of different people **choice, privacy, owning your own data, not being a “product”** it’s all of these things and more.
+
 Be kind to yourself and others on this journey.
 
-
-
+Start Samll for example change your search engine or change your podcast app and grow from there.
 
 ## Alternatives 💡
 
