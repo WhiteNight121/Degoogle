@@ -77,16 +77,17 @@ Links are in no particular order
 
 
 #### **Chrome OS**
-  
-  
+    
   * [QubesOS](https://www.qubes-os.org/)
   * [Trisquel](https://trisquel.info)
   * [Debian](https://debian.org/)
   * [Fedora](https://fedoraproject.org/)
   * [FreeBSD](https://www.freebsd.org/)
   * [Tails](https://tails.boum.org/)
-  
-  
+ 
+#### **Google Wear OS**
+    
+  * [AsteroidOS](https://asteroidos.org/#)
   
 #### **Android**
   
