@@ -88,6 +88,15 @@ Links are in no particular order
 #### **Google Wear OS**
     
   * [AsteroidOS](https://asteroidos.org/#)
+
+#### **Google Android Auto**
+    
+  * No known alternatives :disappointed:
+
+#### **Google Android TV**
+    
+  * [Kodi](https://kodi.tv/)
+  * [OSMC](https://osmc.tv/)
   
 #### **Google Android**
   
