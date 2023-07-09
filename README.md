@@ -225,9 +225,9 @@ In the future someone will be capable of accessing all that information and I as
 
 (Removed Google Domains as it was sold to Squarespace)
 
-## What Now?
+## Other thoughts
 
-I have one little advice. If you can don't use any of the alternatives that are listed above. Using more applications increases your attack vector. It's possible that your data will be leaked someday. Not using Google apps doesn't mean that you're safe from Google. Companies like Google and Facebook continue to look for people to gather information about them so they can target them. So you have to take further measures to be safe from them. Also I want to say that there are lots of alternatives out there, I just listed few alternatives to see that it's possible to move away from Google.
+Remember it's a marathon not a sprint.
 
 ## Related Links
 Below are some links that have influenced my desisions and methodology when Degoogleing.
