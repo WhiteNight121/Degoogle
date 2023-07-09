@@ -1,21 +1,19 @@
 # Intro 
 This Repo was copied from https://github.com/Wuest3nFuchs/Degoogle it seems like its not maintanted any longer.
 
-## What does it mean?
+### *It's a marathon not a sprint*
 
-Degoogling means to stop using anything that belongs to Google, anything that was made by Google. I'm talking about their search engine, their mail service (Gmail), Youtube, etc.
+## Where to Start?
+
+It can feel overwhelming to move away from Google, to move from something that “just works” too something that may not always work if you host it yourself. Don’t look at de-googleing as an all or nothing exercise, everyone’s journey is going to look different and everyone has different comfort levels with hosting their own solution and not everyone can use a different solution that requires a subscription fee and that’s OK. 
+
+De-Googleing is a state of mind, a decision every time you sign up for a new service and decide to NOT use your google account to log in. 
+
+De-googleing is a lot of things to a lot of different people **choice, privacy, owning your own data, not being a “product”** it’s all of these things and more.
+Be kind to yourself and others on this journey.
 
 
-## Why Degoogle?
 
-Google is one of the most powerful companies in the world right now. They have stored a huge amount of information on all of us. Some would argue that our information is safe with them because they know how to protect it. But this isn't true. Google has been penetrated before and it will be penetrated in the future. Maybe not by some script kiddie but it will be done by a nation state. Google stores personal information on all of us because this is how they make money.
-
-They scan our emails, store what we search when we're using their search engine, what videos we watch on Youtube. This is how they target us and build a profile on us to show us some ad based on what we talked about with our best friend so they can show us an ad for something we need, but this is too creepy. Thanks to Mr. Snowden we now know that Google has shared our personal information with NSA under a program called **"PRISM"**.
-
-
-In the future someone will be capable of accessing all that information and I assure you something really bad is going to happen. To prevent that from happening, you should start Degoogling right now. Also you shouldn't use products by a company that shares your data with **NSA**. You should put a stop to all of this by degoogling.
-
-**If other people can do it, you can do it too.**
 
 ## Alternatives 💡
 
@@ -225,10 +223,6 @@ In the future someone will be capable of accessing all that information and I as
 #### **Google Domains**
 
 (Removed Google Domains as it was sold to Squarespace)
-
-## Other thoughts
-
-Remember it's a marathon not a sprint.
 
 ## Related Links
 Below are some links that have influenced my desisions and methodology when Degoogleing.
