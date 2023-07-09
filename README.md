@@ -130,13 +130,11 @@ Start Samll for example change your search engine or change your podcast app and
   * [Immich](https://immich.app/)
   * [PhotoPrism](https://www.photoprism.app/)
   
-  
 #### **Google Translate**
 
   * [DeepL](https://www.deepl.com/translator)
   * [Linguee](https://www.linguee.com/)
   * [dict.cc](https://www.dict.cc/)
-
 
 #### **Google Analytics**
 
@@ -145,7 +143,10 @@ Start Samll for example change your search engine or change your podcast app and
   * [AT Internet](https://www.atinternet.com/en/)
   * [Clicky](https://clicky.com/)
   * [Umami](https://umami.is/)
-  
+
+#### **Google Ads/AdMob/AdSense**
+
+  * [EthicalAds](https://www.ethicalads.io/)
 
 #### **Google Maps**
 
