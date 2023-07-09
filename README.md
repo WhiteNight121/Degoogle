@@ -16,7 +16,7 @@ Be kind to yourself and others on this journey.
 Start Samll for example change your search engine or change your podcast app and grow from there.
 
 ## Alternatives 💡
-
+Links are in no particular order
 
 #### **Google Search Engine**
    
