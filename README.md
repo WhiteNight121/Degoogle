@@ -220,6 +220,7 @@ In the future someone will be capable of accessing all that information and I as
   * [Conversations](https://codeberg.org/iNPUTmice/Conversations)
   * [Jami](https://jami.net/)
   * [Element](https://element.io/)
+  * [SimpleX](https://simplex.chat/)
 
 #### **Google Domains**
 
