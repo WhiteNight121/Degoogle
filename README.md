@@ -29,7 +29,7 @@ Links are in no particular order
    * [Ecosia](https://www.ecosia.org/)
    * [SearXNG](https://github.com/searxng/searxng)
 
-#### **Youtube**
+#### **Google Youtube**
   
   * [Dtube](https://d.tube/)
   * [PeerTube](https://joinpeertube.org/)
@@ -38,7 +38,7 @@ Links are in no particular order
   * [NewPipe](https://newpipe.net/)
   
   
-#### **Gmail**
+#### **Google Gmail**
   
   * [Protonmail](https://proton.me/mail)
   * [Tutanota](https://tutanota.com/)
@@ -89,7 +89,7 @@ Links are in no particular order
     
   * [AsteroidOS](https://asteroidos.org/#)
   
-#### **Android**
+#### **Google Android**
   
   * [GrapheneOS](https://grapheneos.org/)
   * [Ubuntu Touch](https://ubuntu-touch.io/)
@@ -114,7 +114,6 @@ Links are in no particular order
   
   
 #### **Google Docs**
-  
   
   * [LibreOffice](https://www.libreoffice.org/)
   * [CryptPad](https://cryptpad.fr/)
