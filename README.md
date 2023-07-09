@@ -230,6 +230,11 @@ Links are in no particular order
   * [Element](https://element.io/)
   * [SimpleX](https://simplex.chat/)
 
+#### **Google Earth**
+
+  * [Marble](https://apps.kde.org/marble/)
+
+
 #### **Google Domains**
 
 (Removed Google Domains as it was sold to Squarespace)
