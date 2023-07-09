@@ -139,6 +139,14 @@ Links are in no particular order
   * [Immich](https://immich.app/)
   * [PhotoPrism](https://www.photoprism.app/)
   
+#### **Google Authenticator**
+
+  * [Free OTP](https://freeotp.github.io/)
+  * [Aegis](https://getaegis.app/)
+  * [Authenticator](https://mattrubin.me/authenticator/)
+  * [ToFu](https://tofuauth.com/)
+  * [Raivo OTP](https://raivo-otp.com/)
+
 #### **Google Translate**
 
   * [DeepL](https://www.deepl.com/translator)
