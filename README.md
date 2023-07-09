@@ -147,6 +147,14 @@ Links are in no particular order
   * [ToFu](https://tofuauth.com/)
   * [Raivo OTP](https://raivo-otp.com/)
 
+#### **Google Podcasts**
+
+  * [PodCast Index List](https://podcastindex.org/apps)
+  * [Podverse](https://podverse.fm/about)
+  * [Castamatic](https://www.castamatic.com/)
+  * [AntennaPod](https://antennapod.org/)
+  * [Fountain](https://www.fountain.fm/)
+
 #### **Google Translate**
 
   * [DeepL](https://www.deepl.com/translator)
